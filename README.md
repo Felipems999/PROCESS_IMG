@@ -1,6 +1,7 @@
 # Processador de imagem
 
 Projeto para realizar diversos tipos de precessamento de imagem usando, principalmente PyOpenGL.
+Este projeto ficará em constante atualização.
 
 ## Configurando o EOG como o visualizador de imagem padrão no Ubuntu via terminal
 
