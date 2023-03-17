@@ -57,8 +57,8 @@ python -m venv <nome-do-ambiente>
 
 ## Instale os pacotes
 
-Os pacotes necessários para o projeto estão em 'requeriments.txt'. Para instalá-los execute:
+Os pacotes necessários para o projeto estão em 'requirements.txt'. Para instalá-los execute:
 
 ```sh
-pip install -r requeriments.txt
+pip install -r requirements.txt
 ```
